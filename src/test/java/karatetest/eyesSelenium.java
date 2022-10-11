@@ -48,4 +48,8 @@ public class eyesSelenium {
         eyes.closeAsync();
     }
 
+    public void quitDriver() {
+        driver.quit();
+    }
+
 }
