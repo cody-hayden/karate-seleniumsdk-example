@@ -1,3 +1,3 @@
-# Karate with Applitools ImagesSDK example
+# Karate with Applitools Selenium SDK example
 
-a simple demo to show how applitools can be used within Karate framework using Applitools ImageSDK.
+a simple demo to show how Selenium tests can be done within Karate framework using Applitools Selenium SDK.
